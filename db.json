@@ -1,0 +1,142 @@
+{
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "funcionario 01-01",
+      "cpf": "12345778987",
+      "dataNacimento": "08/04/1988",
+      "email": "funcionario01-01@gmail.com",
+      "senha": "xxxxxxxx",
+      "salario": 3000,
+      "horaInicio": "07:00",
+      "horaFim": "15:00",
+      "endereco_id": 1,
+      "hotel_id": 1,
+      "cargo_id": 1
+    },
+    {
+      "id": 1,
+      "nome": "funcionario 01-02",
+      "cpf": "12345778987",
+      "dataNacimento": "08/04/1988",
+      "email": "funcionario01-02@gmail.com",
+      "senha": "xxxxxxxx",
+      "salario": 3000,
+      "horaInicio": "07:00",
+      "horaFim": "15:00",
+      "endereco_id": 2,
+      "hotel_id": 1,
+      "cargo_id": 1
+    },
+    {
+      "id": 1,
+      "nome": "funcionario 01-03",
+      "cpf": "12345778987",
+      "dataNacimento": "08/04/1988",
+      "email": "funcionario01-03@gmail.com",
+      "senha": "xxxxxxxx",
+      "salario": 3000,
+      "horaInicio": "07:00",
+      "horaFim": "15:00",
+      "endereco_id": 3,
+      "hotel_id": 1,
+      "cargo_id": 1
+    },
+    {
+      "id": 1,
+      "nome": "funcionario 01-04",
+      "cpf": "12345778987",
+      "dataNacimento": "08/04/1988",
+      "email": "funcionario01-04@gmail.com",
+      "senha": "xxxxxxxx",
+      "salario": 3000,
+      "horaInicio": "07:00",
+      "horaFim": "15:00",
+      "endereco_id": 4,
+      "hotel_id": 1,
+      "cargo_id": 1
+    }
+  ],
+  "cargo": [
+    {
+      "id": 1,
+      "cargo": "recepcionista",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "3000",
+      "hotel_id": 1
+    },
+    {
+      "id": 2,
+      "cargo": "gerente",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "10000",
+      "hotel_id": 1
+    },
+    {
+      "id": 3,
+      "cargo": "financeiro1",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "5000",
+      "hotel_id": 1
+    },
+    {
+      "id": 4,
+      "cargo": "limpeza",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "2000",
+      "hotel_id": 1
+    }
+  ],
+  "dias_folga": [
+    {
+      "id": 1,
+      "diasSemana_id": 1,
+      "funcionairo_id": 1
+    },
+    {
+      "id": 2,
+      "diasSemana_id": 2,
+      "funcionairo_id": 2
+    },
+    {
+      "id": 3,
+      "diasSemana_id": 3,
+      "funcionairo_id": 3
+    },
+    {
+      "id": 4,
+      "diasSemana_id": 4,
+      "funcionairo_id": 4
+    }
+  ],
+  "diasSemana": [
+    {
+      "id": 1,
+      "diaSemana": "domingo"
+    },
+    {
+      "id": 2,
+      "diaSemana": "segunda-feira"
+    },
+    {
+      "id": 2,
+      "diaSemana": "terça-feira"
+    },
+    {
+      "id": 4,
+      "diaSemana": "quarta-feira"
+    },
+    {
+      "id": 5,
+      "diaSemana": "quinta-feira"
+    },
+    {
+      "id": 6,
+      "diaSemana": "sexta-feira"
+    },
+    {
+      "id": 7,
+      "diaSemana": "sábado"
+    }
+  ]
+}
