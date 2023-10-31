@@ -26,7 +26,7 @@
       "horaFim": "15:00",
       "endereco_id": 2,
       "hotel_id": 1,
-      "cargo_id": 1
+      "cargo_id": 2
     },
     {
       "id": 1,
@@ -40,7 +40,7 @@
       "horaFim": "15:00",
       "endereco_id": 3,
       "hotel_id": 1,
-      "cargo_id": 1
+      "cargo_id": 3
     },
     {
       "id": 1,
@@ -54,7 +54,7 @@
       "horaFim": "15:00",
       "endereco_id": 4,
       "hotel_id": 1,
-      "cargo_id": 1
+      "cargo_id": 4
     }
   ],
   "cargo": [
