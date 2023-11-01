@@ -23,7 +23,7 @@
       "cep": "00000-000",
       "cidade": "Juiz de Fora",
       "UF_id": 1,
-      "pais_id": 1
+      "pais_id": 1,
       "hotel_id": 1,
       "cargo_id": 1
     },
@@ -50,7 +50,7 @@
       "cep": "00000-000",
       "cidade": "Rio de Janeiro",
       "UF_id": 2,
-      "pais_id": 1
+      "pais_id": 1,
       "hotel_id": 1,
       "cargo_id": 2
     },
@@ -78,7 +78,7 @@
       "cep": "00000-000",
       "cidade": "João Pessoa",
       "UF_id": 3,
-      "pais_id": 1
+      "pais_id": 1,
       "hotel_id": 1,
       "cargo_id": 3
     },
@@ -106,7 +106,7 @@
       "cep": "00000-000",
       "cidade": "Buenos Aires",
       "UF_id": 4,
-      "pais_id": 2
+      "pais_id": 2,
       "hotel_id": 1,
       "cargo_id": 4
     }
