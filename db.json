@@ -28,7 +28,7 @@
       "cargo_id": 1
     },
     {
-      "id": 1,
+      "id": 2,
       "nome": "funcionario 01-02",
       "cpf": "12345778987",
       "dataNacimento": "1988-04-08",
@@ -55,7 +55,7 @@
       "cargo_id": 2
     },
     {
-      "id": 1,
+      "id": 3,
       "nome": "funcionario 01-03",
       "cpf": "12345778987",
       "dataNacimento": "1988-04-08",
@@ -83,7 +83,7 @@
       "cargo_id": 3
     },
     {
-      "id": 1,
+      "id": 4,
       "nome": "funcionario 01-04",
       "cpf": "12345778987",
       "dataNacimento": "1988-04-08",
