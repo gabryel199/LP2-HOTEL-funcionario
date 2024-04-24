@@ -1,5 +1,5 @@
 {
-  "funcionario": [
+  "funcionarios": [
     {
       "id": 1,
       "nome": "funcionario 01-01",
@@ -111,7 +111,7 @@
       "cargo_id": 4
     }
   ],
-  "cargo": [
+  "cargos": [
     {
       "id": 1,
       "cargo": "recepcionista",
@@ -141,7 +141,7 @@
       "hotel_id": 1
     }
   ],
-  "dias_folga": [
+  "diasFolgas": [
     {
       "id": 1,
       "diasSemana_id": 1,
@@ -163,7 +163,7 @@
       "funcionairo_id": 4
     }
   ],
-  "diasSemana": [
+  "diasSemanas": [
     {
       "id": 1,
       "diaSemana": "domingo"
